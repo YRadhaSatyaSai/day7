@@ -1,0 +1,25 @@
+*{
+    background-color: #111;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.name{
+    font-size: 1rem;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    filter: drop-shadow(2px 2px 10px yellow);
+    color: yellow;
+}
+.banner{
+    background-image: url(https://occ-0-4857-2186.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABcn-2hWrlm_Zo8OKbufIzsejJrSYFoA2dLqDzBVlH1ZZ66aACnDx5zpmtLmm5QclV1HDuV-4rDVCOgfLW7jpTgu3SkDTqWtkXzJZfozChpJsW0ioLV7URla4JfSYQt0ck3cNRlPZjYTB7GldV2sJr2tmkC78CHhB4NDh7dSXxahieMhJnm161RA6_AcQ2qY.jpg?r=c81%22%20data-title-id=%2281654427);
+    background-size: cover;
+    background-position: center center;
+    max-width: 100%;
+    background-repeat: no-repeat;
+    height: 200px;
+}
+.posters{
+    display: flex;
+}
